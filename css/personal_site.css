@@ -1,0 +1,155 @@
+
+
+<!-- Header -->
+    </header>
+      
+      
+      <style> 
+
+        body{
+          background-color: white;
+        }
+        p.text{
+          font-family: helvetica;
+          font-size: 15px;
+          width:520px;
+        }
+        #photolink{
+          
+          color: dodgerblue;
+
+        }
+        #title{
+          font-weight:bold;
+          color: black;
+          font-size: 45px;
+          font-family: helvetica;
+          text-align: center;
+        }
+        #hello{
+          font-size: 40px;
+          font-family: helvetica;
+        }
+        #instagram{
+          position: relative;
+            top: 600px;
+            right: 570px;
+        }
+        #github{
+          position: relative;
+            top: 500px;
+            right: 620px;
+        }
+        
+
+/*
+nagivation bar
+*/
+        body {margin:0;}
+
+        ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            background-color:#FDBB43;
+/*            position: fixed;*/
+      /*      top: 100px;*/
+            /*width: 100%;*/
+        }
+
+        #nav{
+          position:fixed;
+        }
+
+        .navbar-default{
+          background-color: #FDBB43;
+          padding: 8px 10px;
+          border: 0;
+        }
+
+        .navbar-brand{
+          font-size: 20px;
+          position: left;
+          font:helvetica;
+          color: white;
+        }
+
+        .navbar-nav{
+          display:inline-block;
+        }
+
+        li {
+            float: left;
+        }
+
+        li a {
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 10px 15px;
+            text-decoration: none;
+            font:helvetica;
+            font-size: 17px;
+        }
+
+       li a:hover:not(.active) {
+            text-decoration-line: none;
+            color: #2A69B1;
+        }
+
+        .active {
+            background-color: #93C66F  ;
+        }
+        
+
+
+        #maintitle{
+          font-weight:bold;
+          color: #1BD2CA  ;
+          padding:220px;
+          font-size: 70px;
+          font-family: helvetica;
+          text-align: center;
+        }
+
+        .section-title-border{
+          height:50px;
+        }
+
+        .section-title{
+          padding:50px;
+          position:absolute;
+          left:20px;
+          font-size:40px;
+          font:helvetica;
+        }
+
+        .intro{
+          padding:90px;
+          left:0px;
+        }
+
+
+
+
+
+      </style>
+    </head>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
